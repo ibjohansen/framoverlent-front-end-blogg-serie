@@ -110,3 +110,7 @@ tfoot { font-style: italic; }
     min-height: 100vh;
     background-color: #e0e8e0;
 }
+
+button {
+    padding: 6px 8px;
+}
